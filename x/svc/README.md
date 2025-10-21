@@ -341,3 +341,5 @@ make -C x/svc benchmark
 - **Multi-sig Ownership**: Support for team-owned services
 - **Service Analytics**: Usage statistics and monitoring
 - **Subdomain Support**: Hierarchical service structures
+
+<!-- Auto-update: 2025-10-21T08:04:53.508968 -->
